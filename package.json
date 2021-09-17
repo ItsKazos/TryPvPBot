@@ -1,0 +1,17 @@
+{
+  "name": "dans-hangout",
+  "version": "1.0.0",
+  "description": "A Discord bot!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.0"
+  }
+}
